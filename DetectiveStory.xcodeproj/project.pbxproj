@@ -49,6 +49,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		507E488628AAC9E800BCB120 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				50BF556027B57F2400F23F3F /* music01.mp3 */,
+				509B708027B65A360056BB51 /* coins.mp3 */,
+				509B708127B65A360056BB51 /* lose.mp3 */,
+				509B708227B65A360056BB51 /* win.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		50BF553427B524BF00F23F3F = {
 			isa = PBXGroup;
 			children = (
@@ -76,10 +87,7 @@
 				50BF554927B524C000F23F3F /* Assets.xcassets */,
 				50BF554B27B524C000F23F3F /* LaunchScreen.storyboard */,
 				50BF554E27B524C000F23F3F /* Info.plist */,
-				50BF556027B57F2400F23F3F /* music01.mp3 */,
-				509B708027B65A360056BB51 /* coins.mp3 */,
-				509B708127B65A360056BB51 /* lose.mp3 */,
-				509B708227B65A360056BB51 /* win.mp3 */,
+				507E488628AAC9E800BCB120 /* Sounds */,
 			);
 			path = DetectiveStory;
 			sourceTree = "<group>";
